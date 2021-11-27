@@ -1,0 +1,14 @@
+{
+  "name": "lerna-vue-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Ntakuya/lerna-vue-practice.git",
+  "license": "MIT",
+  "scripts": {
+    "lerna": "lerna"
+  },
+  "author": "",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
